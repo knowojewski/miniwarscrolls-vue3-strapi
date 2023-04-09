@@ -1,1 +1,1 @@
-# miniwarscrolls-nuxt3
+# miniwarscrolls-vue3-strapi
